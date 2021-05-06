@@ -1,0 +1,12 @@
+/* ==UserStyle==
+@name           Twitter Without Distractions
+@namespace      https://github.com/raulcraveiro/twitter-without-distractions
+@version        1.0.0
+@description    Style to remove the trend block and the DM popup from Twitter Web.
+@author         Raul Craveiro (https://craveiro.com.br)
+@preprocessor   default
+==/UserStyle== */
+
+div[data-testid="sidebarColumn"], div[data-testid="DMDrawer"] {
+  visibility: hidden !important;
+}
