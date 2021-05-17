@@ -7,6 +7,8 @@
 @preprocessor   default
 ==/UserStyle== */
 
-div[data-testid="sidebarColumn"], div[data-testid="DMDrawer"] {
-  visibility: hidden !important;
-}
+@-moz-document domain("twitter.com") {
+    div[data-testid="sidebarColumn"], div[data-testid="DMDrawer"] {
+        visibility: hidden !important;
+    }
+} 
