@@ -1,4 +1,4 @@
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad?style=flat-square)](https://github.com/raulcraveiro/twitter-em-foco/raw/master/twitter-em-foco.user.css) [![Twitter Follow](https://img.shields.io/twitter/follow/raulcraveiro?color=00acee&logo=twitter&style=flat-square)](https://twitter.com/raulcraveiro) [![GitHub](https://img.shields.io/github/license/raulcraveiro/twitter-em-foco?style=flat-square)](https://github.com/raulcraveiro/twitter-em-foco/blob/main/LICENSE)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad?style=flat-square)](https://github.com/raulcraveiro/twitter-em-foco/raw/main/twitter-em-foco.user.css) [![Twitter Follow](https://img.shields.io/twitter/follow/raulcraveiro?color=00acee&logo=twitter&style=flat-square)](https://twitter.com/raulcraveiro) [![GitHub](https://img.shields.io/github/license/raulcraveiro/twitter-em-foco?style=flat-square)](https://github.com/raulcraveiro/twitter-em-foco/blob/main/LICENSE)
 
 # Twitter Em Foco
 
@@ -8,4 +8,4 @@ Seguindo a linha do [YouTube Em Foco](https://github.com/raulcraveiro/youtube-em
 
 ## Instalação
 
-Basta instalar a extensão [Stylus](https://github.com/openstyles/stylus) e depois [instalar este userstyle](https://github.com/raulcraveiro/twitter-em-foco/raw/master/twitter-em-foco.user.css). Simples assim.
+Basta instalar a extensão [Stylus](https://github.com/openstyles/stylus) e depois [instalar este userstyle](https://github.com/raulcraveiro/twitter-em-foco/raw/main/twitter-em-foco.user.css). Simples assim.
