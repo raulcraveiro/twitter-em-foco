@@ -1,4 +1,4 @@
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad?style=flat-square)](https://github.com/raulcraveiro/twitter-em-foco/raw/main/twitter-em-foco.user.css) ] [![GitHub](https://img.shields.io/github/license/raulcraveiro/twitter-em-foco?style=flat-square)](https://github.com/raulcraveiro/twitter-em-foco/blob/main/LICENSE)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad?style=flat-square)](https://github.com/raulcraveiro/twitter-em-foco/raw/main/twitter-em-foco.user.css) [![GitHub](https://img.shields.io/github/license/raulcraveiro/twitter-em-foco?style=flat-square)](https://github.com/raulcraveiro/twitter-em-foco/blob/main/LICENSE)
 
 # Twitter Em Foco
 
